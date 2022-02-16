@@ -1,0 +1,11 @@
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\bin\Debug\HookWatcherCSharp.exe.config
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\bin\Debug\HookWatcherCSharp.exe
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\bin\Debug\HookWatcherCSharp.pdb
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\obj\Debug\HookWatcherCSharp.csproj.AssemblyReference.cache
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\obj\Debug\HookWatcherCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\obj\Debug\HookWatcherCSharp.Form1.resources
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\obj\Debug\HookWatcherCSharp.Properties.Resources.resources
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\obj\Debug\HookWatcherCSharp.csproj.GenerateResource.cache
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\obj\Debug\HookWatcherCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\obj\Debug\HookWatcherCSharp.exe
+C:\Users\ksone\develop\HookWatcherCSharp\HookWatcherCSharp\obj\Debug\HookWatcherCSharp.pdb

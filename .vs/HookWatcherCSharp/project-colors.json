@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9e175f5-7652-4bf0-b960-fa70c03ce945": {
+      "ProjectGuid": "f9e175f5-7652-4bf0-b960-fa70c03ce945",
+      "DisplayName": "HookWatcherCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
